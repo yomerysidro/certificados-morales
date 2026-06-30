@@ -402,7 +402,7 @@ export default function App() {
               
               {/* Header profile section */}
               <div className="border-b border-sky-900 pb-4">
-                <p className="text-[10px] font-bold uppercase text-amber-400 tracking-widest">Workspace Activo</p>
+                <p className="text-[10px] font-bold uppercase text-amber-400 tracking-widest">Panel Activo</p>
                 <p className="font-extrabold text-white text-sm mt-1 truncate">{currentUser.nombre_completo}</p>
                 <span className="text-[9px] text-sky-300 font-mono font-bold uppercase">{currentUser.id_rol}</span>
               </div>

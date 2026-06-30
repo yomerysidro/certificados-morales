@@ -32,7 +32,7 @@ export const INITIAL_ROLES: Rol[] = [
 
 export const INITIAL_MODULOS: Modulo[] = [
   { id_modulo: 1, nombre_modulo: 'Panel de Administrador', ruta: '2' }, // activeFigmaPage '2'
-  { id_modulo: 2, nombre_modulo: 'Workspace de Digitador', ruta: '3' }, // activeFigmaPage '3'
+  { id_modulo: 2, nombre_modulo: 'Panel de Digitador', ruta: '3' }, // activeFigmaPage '3'
   { id_modulo: 3, nombre_modulo: 'Monitoreo Directivo', ruta: '4' },    // activeFigmaPage '4'
   { id_modulo: 4, nombre_modulo: 'Portal Público', ruta: '5' },         // activeFigmaPage '5'
   { id_modulo: 5, nombre_modulo: 'Flujos de Error', ruta: '6' }         // activeFigmaPage '6'
