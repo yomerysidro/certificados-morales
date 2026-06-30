@@ -1,0 +1,6 @@
+{
+  "name": "Certificados Digitales Morales",
+  "description": "Sistema de Gestión y Emisión de Certificados Digitales para la Municipalidad Distrital de Morales. Automatiza la firma digital, registro y consulta pública de certificados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
