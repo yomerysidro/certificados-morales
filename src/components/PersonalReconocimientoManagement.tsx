@@ -610,7 +610,7 @@ export default function PersonalReconocimientoManagement({
                     <div className="flex justify-between items-start border-b border-slate-100 pb-1">
                       <div className="flex items-center space-x-1">
                         <img 
-                          src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Escudo_de_Morales_-_San_Mart%C3%ADn.png" 
+                          src="/logo/ESCUDO_MDM_2026.png" 
                           alt="Logo Morales"
                           className="w-5 h-5 object-contain"
                           referrerPolicy="no-referrer"

@@ -155,7 +155,7 @@ export default function CertificatePreview({
             {/* Elegant Vector Seal Emblem with Official Morales Shield */}
             <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center border border-slate-200 shadow-sm overflow-hidden p-0.5">
               <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Escudo_de_Morales_-_San_Mart%C3%ADn.png" 
+                src="/logo/ESCUDO_MDM_2026.png"
                 alt="Escudo Oficial de Morales"
                 className="w-10 h-10 object-contain"
                 referrerPolicy="no-referrer"
